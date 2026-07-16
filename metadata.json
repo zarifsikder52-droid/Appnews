@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Calculator Vault",
+  "description": "A fully functional calculator with a secure secret media vault hidden behind it to protect your photos and videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
